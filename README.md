@@ -7,7 +7,7 @@ Demo: https://rawgit.com/codegolf/snowflake/master/index.html
 
 ### Source
 
-```
+```html
 <canvas id=b><svg onload='with(Math)
 for(I=Y=0;Y++<(n=70);I=random()-1.9&
 I+1)for(i=12;i--;C(-X))j=i>5&&I,C=(X
