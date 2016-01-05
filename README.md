@@ -1,5 +1,7 @@
 # snowflake
 
+[![Join the chat at https://gitter.im/codegolf/snowflake](https://badges.gitter.im/codegolf/snowflake.svg)](https://gitter.im/codegolf/snowflake?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A random snowflake generator using < 200 bytes of HTML and JavaScript.
 
 Demo: https://rawgit.com/codegolf/snowflake/master/index.html
