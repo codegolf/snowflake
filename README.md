@@ -1,5 +1,6 @@
 # snowflake
-Random Snowflakes Generator Using &lt;200 Bytes of HTML and JavaScript.
+
+A random snowflake generator using < 200 bytes of HTML and JavaScript.
 
 Demo: https://rawgit.com/codegolf/snowflake/master/index.html
 
